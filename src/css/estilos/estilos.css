@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+:root{
+    --primary-color: rgb(54, 2, 136);
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    color: white;
+    background-position: 100%;
+    background-color: var(--primary-color);
+    background-image: url(/src/imagens/imagemfund.jpg);
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50px;
+    box-shadow: 500px;
+}
+
+.fundo{
+    position: absolute;
+    width: auto;
+    height: auto;
+    background-image: url(//src/imagens/imagemfund.jpg);
+}
+
+.maincontent{
+    display: contents;
+    height: auto;
+    height: auto;
+    text-transform: uppercase;
+}
+
+.select {
+    text-transform: uppercase;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+    background-color: darkred;
+    border-radius: 50px;
+    width: 200px;
+    height: 60px;
+    font-size: 17px;
+    color: white;
+}
