@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Gabriel Tobias<br>I'm a student of front end development<br>
+My name is Gabriel Tobias<br>I'm a student of fullstack development<br>
 
 
 ## 🌐 Socials:
